@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python, Java, C and Web Development
 - 📖 Wishing to learn **JavaScript** and **C++**
-- 📫 You can reach me on Discord : **@ Fujito#2063**
+- 📫 You can reach me on Discord : **@ Fabio#0005**
 - 🌙 I know French and English
 
 <h3 align="center"> Languages and software that I use </h3>
