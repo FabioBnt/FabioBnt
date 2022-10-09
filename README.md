@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, PHP, SQL**
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m open to collaborate on **open-source projects**
 
 - 🤝 I’m looking for help to **learn different development languages**
 
