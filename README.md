@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **academic projects**
 
-- 🌱 I’m currently learning **Java, PHP and SQL**
+- 🌱 I’m currently learning **JavaScript, C++, Python and more**
 
 - 👯 I’m open to collaborate on **open-source projects**
 
