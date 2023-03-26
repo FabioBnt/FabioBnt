@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Fabio</h1>
 <h3 align="center">A computer science student aiming to improve</h3>
 
-- 🎓 I’m currently working on **academic projects**
+- 🎓 I’m working on **academic projects**
 
 - 💻 I’m currently learning **JavaScript and Python**
 
