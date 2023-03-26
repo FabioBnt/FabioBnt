@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fabio</h1>
-<h3 align="center">A student in computer science looking to improve</h3>
+<h1 align="center">Hi ✌️, I'm Fabio</h1>
+<h3 align="center">A computer science student aiming to improve</h3>
 
 - 🎓 I’m currently working on **academic projects**
 
