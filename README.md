@@ -21,3 +21,8 @@
     <img src="https://skillicons.dev/icons?i=c,php,js,git,docker,gradle,maven,html,css,java,jquery,linux,md,postman,py,vscode"/>
   </a>
 </p>
+
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FabioBnt&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FabioBnt&theme=tokyonight)
