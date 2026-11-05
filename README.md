@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help to **learn different development languages**
 
-- 📫 How to reach me **fabiobentaila@gmail.com**
-
 
 <h3 align="center">Languages and Tools that I use :</h3>
 
